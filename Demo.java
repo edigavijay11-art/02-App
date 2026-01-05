@@ -1,4 +1,4 @@
-public class DateUtils{
+public class Date{
 
 	public void convertToDate(){
 	}
